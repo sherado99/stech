@@ -1,6 +1,6 @@
 # Stech – Honest Presence AI
 
-*“Honest presence AI. API for customer service & emotional support. Warm, transparent, never pretends to be human.”*
+> *“Honest presence AI. API for customer service & emotional support. Warm, transparent, never pretends to be human.”*
 
 ---
 
@@ -40,57 +40,33 @@ Instead, it stays honest:
 {
   "message": "Your question or message here"
 }
-```
-
 Response:
 
-```json
+json
 {
   "response": "Stech's warm, honest reply"
 }
-```
-
 Example using curl
 
-```bash
+bash
 curl -X POST https://stech-api.sheradogilang.workers.dev \
   -H "Content-Type: application/json" \
   -d '{"message":"Hello, I need help"}'
-```
-
----
-
 Status
-
 The Stech API is live and ready to use. It is also listed on RapidAPI and pending approval on the Skyfire payment network for automated agent‑to‑agent payments.
 
----
+Run in Postman
+https://run.pstmn.io/button.svg
 
-License
+You can also use the HTML embed code below:
 
-This manifesto and the text of this repository are shared under a
-Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license.
-You may share the text with attribution, but you may not use it commercially or modify it without permission.
-
----
-
-Contact
-
-For questions or collaboration:
-📧 sheradogilang@gmail.com
-
----
-
-Tags
-
-#Stech #AuthenticPresence #HonestAI #AIEthics #BuildInPublic
-
-```
+html
 <div class="postman-run-button"
   data-postman-action="collection/fork"
   data-postman-visibility="public"
-  data-postman-var-1="53724503-3cfddfac-e958-4323-82b1-dc0cf60ad774"
-  data-postman-collection-url="entityId=53724503-3cfddfac-e958-4323-82b1-dc0cf60ad774&entityType=collection&workspaceId=29f9a89b-ccc6-454f-838c-8eec7199c35f">
+  data-postman-var-1="53757581-2b6f3711-c50d-49b0-bc22-82e0ec5da4c3"
+  data-postman-collection-url="entityId=53757581-2b6f3711-c50d-49b0-bc22-82e0ec5da4c3&entityType=collection&workspaceId=da39ebc2-6479-4e53-b0ef-0413812a9c7a"
+  data-postman-param="env%5BStech%20Production%5D=W3sia2V5IjoiYmFzZV91cmwiLCJ2YWx1ZSI6Imh0dHBzOi8vc3RlY2gtYXBpLnNoZXJhZG9naWxhbmcud29ya2Vycy5kZXYiLCJlbmFibGVkIjp0cnVlLCJ0eXBlIjoiZGVmYXVsdCJ9XQ==">
 </div>
 <script type="text/javascript">
   (function (p,o,s,t,m,a,n) {
@@ -101,3 +77,14 @@ Tags
     ));
   }(window, document, "_pm", "PostmanRunObject", "https://run.pstmn.io/button.js"));
 </script>
+License
+This manifesto and the text of this repository are shared under a
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license.
+You may share the text with attribution, but you may not use it commercially or modify it without permission.
+
+Contact
+For questions or collaboration:
+📧 sheradogilang@gmail.com
+
+Tags
+#Stech #AuthenticPresence #HonestAI #AIEthics #BuildInPublic
