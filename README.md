@@ -1,4 +1,4 @@
-ok# Stech – Honest Presence AI
+# Stech – Honest Presence AI
 
 *“Honest presence AI. API for customer service & emotional support. Warm, transparent, never pretends to be human.”*
 
