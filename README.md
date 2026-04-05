@@ -48,7 +48,6 @@ json
 }
 
 **Example using curl**
-
 bash
 curl -X POST https://stech-api.sheradogilang.workers.dev \
   -H "Content-Type: application/json" \
@@ -70,7 +69,6 @@ Tags
 
 
 **POSTMAN**
-
 Run in Postman
 https://run.pstmn.io/button.svg
 
