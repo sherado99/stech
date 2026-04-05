@@ -55,6 +55,19 @@ curl -X POST https://stech-api.sheradogilang.workers.dev \
 Status
 The Stech API is live and ready to use. It is also listed on RapidAPI and pending approval on the Skyfire payment network for automated agent‑to‑agent payments.
 
+License
+This manifesto and the text of this repository are shared under a
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license.
+You may share the text with attribution, but you may not use it commercially or modify it without permission.
+
+Contact
+For questions or collaboration:
+📧 sheradogilang@gmail.com
+
+Tags
+#Stech #AuthenticPresence #HonestAI #AIEthics #BuildInPublic
+
+
 Run in Postman
 https://run.pstmn.io/button.svg
 
@@ -77,14 +90,3 @@ html
     ));
   }(window, document, "_pm", "PostmanRunObject", "https://run.pstmn.io/button.js"));
 </script>
-License
-This manifesto and the text of this repository are shared under a
-Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license.
-You may share the text with attribution, but you may not use it commercially or modify it without permission.
-
-Contact
-For questions or collaboration:
-📧 sheradogilang@gmail.com
-
-Tags
-#Stech #AuthenticPresence #HonestAI #AIEthics #BuildInPublic
