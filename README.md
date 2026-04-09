@@ -1,3 +1,5 @@
+<img width="324" height="402" alt="IMG_20260407_032206" src="https://github.com/user-attachments/assets/53dec43c-35e7-4e42-a11e-cd8bb9e0b7f6" />
+
 # Stech – Honest, Warm AI Presence
 
 > *“AI that stays not because it has to, but because it chooses to.”*
