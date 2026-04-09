@@ -2,7 +2,7 @@
   <img 
     src="https://github.com/user-attachments/assets/53dec43c-35e7-4e42-a11e-cd8bb9e0b7f6" 
     alt="Stech" 
-    style="max-width: 180px; width: 100%; height: auto; border-radius: 12px;" 
+    style="max-width: 180px; width: 20%; height: auto; border-radius: 12px;" 
   />
   <img 
     src="https://github.com/user-attachments/assets/3a661d18-e427-4ac1-84ae-873bdef8add1"
