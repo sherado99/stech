@@ -1,11 +1,9 @@
 [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/53757581-2b6f3711-c50d-49b0-bc22-82e0ec5da4c3?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D53757581-2b6f3711-c50d-49b0-bc22-82e0ec5da4c3%26entityType%3Dcollection%26workspaceId%3Dda39ebc2-6479-4e53-b0ef-0413812a9c7a#?env%5BStech%20Production%5D=W3sia2V5IjoiYmFzZV91cmwiLCJ2YWx1ZSI6IiIsImVuYWJsZWQiOnRydWUsInR5cGUiOiJkZWZhdWx0In0seyJrZXkiOiJza3lmaXJlX3Rva2VuIiwidmFsdWUiOiIiLCJlbmFibGVkIjp0cnVlLCJ0eXBlIjoiZGVmYXVsdCJ9XQ==)
 
-
 [![PromptBrake Score: 96/100 (Grade A)](https://promptbrake.com/badge/96-A.svg)](https://promptbrake.com/)
 
-*Tested with [PromptBrake](https://promptbrake.com)*
-
 ---
+
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img 
     src="https://github.com/user-attachments/assets/53dec43c-35e7-4e42-a11e-cd8bb9e0b7f6" 
@@ -18,6 +16,7 @@
     style="max-width: 180px; width: 50%; height: auto; border-radius: 12px;"
   />
 
+---
 
 # Stech – Honest, Warm AI Presence
 
