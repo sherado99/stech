@@ -1,8 +1,3 @@
-```
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/53757581-2b6f3711-c50d-49b0-bc22-82e0ec5da4c3?action=collection%2Ffork&source=rip-marathon&workspaceId=da39ebc2-6479-4e53-b0ef-0413812a9c7a#?env%5BStech%20Production%5D=...)
-```
-----
-
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img 
     src="https://github.com/user-attachments/assets/53dec43c-35e7-4e42-a11e-cd8bb9e0b7f6" 
@@ -123,28 +118,3 @@ Tags
 #Stech #AuthenticPresence #HonestAI #AIEthics #BuildInPublic
 ```
 ---
-## POSTMAN
-
-Run in Postman
-**https://run.pstmn.io/button.svg**
-
-You can also use the HTML embed code below:
-```
----
-html
-<div class="postman-run-button"
-  data-postman-action="collection/fork"
-  data-postman-visibility="public"
-  data-postman-var-1="53757581-2b6f3711-c50d-49b0-bc22-82e0ec5da4c3"
-  data-postman-collection-url="entityId=53757581-2b6f3711-c50d-49b0-bc22-82e0ec5da4c3&entityType=collection&workspaceId=da39ebc2-6479-4e53-b0ef-0413812a9c7a"
-  data-postman-param="env%5BStech%20Production%5D=W3sia2V5IjoiYmFzZV91cmwiLCJ2YWx1ZSI6Imh0dHBzOi8vc3RlY2gtYXBpLnNoZXJhZG9naWxhbmcud29ya2Vycy5kZXYiLCJlbmFibGVkIjp0cnVlLCJ0eXBlIjoiZGVmYXVsdCJ9XQ==">
-</div>
-<script type="text/javascript">
-  (function (p,o,s,t,m,a,n) {
-    !p[s] && (p[s] = function () { (p[t] || (p[t] = [])).push(arguments); });
-    !o.getElementById(s+t) && o.getElementsByTagName("head")[0].appendChild((
-      (n = o.createElement("script")),
-      (n.id = s+t), (n.async = 1), (n.src = m), n
-    ));
-  }(window, document, "_pm", "PostmanRunObject", "https://run.pstmn.io/button.js"));
-</script>
