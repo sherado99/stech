@@ -13,7 +13,7 @@
   <img 
     src="https://github.com/user-attachments/assets/d9c35b9f-5ee8-49f1-be78-3d2381f20885"
     alt="Stech logo"
-    style="max-width: 180px; width: 60%; height: auto; border-radius: 12px;"
+    style="max-width: 180px; width: 50%; height: auto; border-radius: 12px;"
   />
 
 # Stech – Honest, Warm AI Presence
