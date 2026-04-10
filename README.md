@@ -3,6 +3,8 @@
 
 [![PromptBrake Score: 96/100 (Grade A)](https://promptbrake.com/badge/96-A.svg)](https://promptbrake.com/)
 
+*Tested with [PromptBrake](https://promptbrake.com)*
+
 ---
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img 
