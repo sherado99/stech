@@ -6,14 +6,14 @@
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img 
-    src="https://github.com/user-attachments/assets/53dec43c-35e7-4e42-a11e-cd8bb9e0b7f6" 
+    src="https://github.com/user-attachments/assets/aa3982bc-8be9-4214-8df8-ed3a674d0dc9"" 
     alt="Stech" 
-    style="max-width: 180px; width: 10%; height: auto; border-radius: 12px;" 
+    style="max-width: 180px; width: 12%; height: auto; border-radius: 12px;" 
   />
   <img 
     src="https://github.com/user-attachments/assets/d9c35b9f-5ee8-49f1-be78-3d2381f20885"
     alt="Stech logo"
-    style="max-width: 180px; width: 50%; height: auto; border-radius: 12px;"
+    style="max-width: 180px; width: 49%; height: auto; border-radius: 12px;"
   />
 
 # Stech – Honest, Warm AI Presence
