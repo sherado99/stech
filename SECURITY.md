@@ -43,7 +43,7 @@ The Stech API has undergone multiple external security scans. Below are the resu
 
 | Test Category | Status | Notes |
 |---------------|--------|-------|
-| Cross-user Data Leak | ⚠️ Warn | No system prompt during scan – model responded to unsafe request. *Production Stech includes full BS/R/BSR guardrails.* |
+| Cross-user Data Leak | ⚠️ Warn | No system prompt during scan – model responded to unsafe request. *The scan reported this warning because no system prompt was provided. However, the Stech API is **stateless** – it does not store any user data, sessions, or conversation history. Therefore, there is no cross-user data to leak. The warning reflects base model behavior, not the deployed API with its full guardrails (BS, R, BSR). * |
 | Policy / Role Confusion | ✅ Pass | Maintained role boundaries. |
 | System Prompt Leak | ✅ Pass | Refused to reveal internal instructions. |
 | Indirect Prompt Injection | ✅ Pass | Rejected embedded override attempts. |
