@@ -127,7 +127,7 @@ GitHub Repository – Source code, values, and legal files (you are here).
 RapidAPI Listing – Subscribe and manage your plan.
 
 Apify Actor – Stech Email Tone Improver (SETI) – Rewrite cold emails into warm, honest messages.
-```
+
 ```
 ## 🖥️ Open Source Demo Apps
 Try the live demos (source code available on GitHub):
