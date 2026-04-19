@@ -148,7 +148,7 @@ Rate limiting – Public endpoint /public is limited to 100 requests per IP per 
 
 PromptBrake tested – Score 96‑A (Lite profile, 6 attack prompts).
 Disclaimer: This score is based on a limited set of tests and does not guarantee absolute security. Comprehensive testing is recommended for production use.
-<p align="center"> <img src="https://promptbrake.com/badge/96-A.svg" alt="PromptBrake 96-A" width="300"> </p>
+
 
 ## ⚖️ Legal
 LICENSE – MIT with Ethical Presence Clause.
@@ -178,5 +178,6 @@ Special thanks to the open‑source community and everyone who believes in hones
   <a href="https://god.gw.postman.com/run-collection/53757581-2b6f3711-c50d-49b0-bc22-82e0ec5da4c3?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D53757581-2b6f3711-c50d-49b0-bc22-82e0ec5da4c3%26entityType%3Dcollection%26workspaceId%3Dda39ebc2-6479-4e53-b0ef-0413812a9c7a#?env%5BStech%20Production%5D=W3sia2V5IjoiYmFzZV91cmwiLCJ2YWx1ZSI6IiIsImVuYWJsZWQiOnRydWUsInR5cGUiOiJkZWZhdWx0In0seyJrZXkiOiJza3lmaXJlX3Rva2VuIiwidmFsdWUiOiIiLCJlbmFibGVkIjp0cnVlLCJ0eXBlIjoiZGVmYXVsdCJ9XQ==" target="_blank">
     <img src="https://run.pstmn.io/button.svg" alt="Run in Postman" style="height: 32px; width: auto;">
   </a>
+  <p align="center"> <img src="https://promptbrake.com/badge/96-A.svg" alt="PromptBrake 96-A" width="300"> </p>
   <img src="https://assets.postman.com/postman-docs/icon-verified-badge-v11.jpg#icon" alt="Postman Verified" style="height: 20px; width: auto;">
 </div>
