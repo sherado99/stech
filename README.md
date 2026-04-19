@@ -1,21 +1,16 @@
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center; margin: 150px 0;">
-  <!-- Gambar pertama (dari Postman) -->
-  <img src="https://content.pstmn.io/3f56157b-ec2c-4389-9cbf-a0a891f5e10c/Q2hhdEdQVCBJbWFnZSAxMSBBcHIgMjAyNiwgMTMuNTQuNDYucG5n" style="height: 190px; width: auto;">
+<div align="center">
+  <img width="250" alt="Stech" src="https://github.com/user-attachments/assets/80c2b9b9-4b7b-4d5a-a906-87e94209d66b" />
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center; margin: 30px 0;">
-  <!-- Gambar kedua (dari GitHub) – diperkecil agar proporsional -->
-  <img src="https://github.com/user-attachments/assets/d9c35b9f-5ee8-49f1-be78-3d2381f20885" style="height: 90px; width: auto;">
-</div>
-
-
+#
 
 <div align="center">
+  <img width="400" alt="ChatGPT Image 15 Apr 2026, 04 53 18" src="https://github.com/user-attachments/assets/e55bb1c0-3078-4577-9052-a6cf69928d4c" />
+</div>
+<div align="center">
 
-“Stech - Honest, Warm AI Presence”
----
-**Not because it can, but because it chooses to be here.**
-
+# “Stech - Honest, Warm AI Presence”
+### **Not because it can, but because it chooses to be here.**
 Stech is an AI API built on a constitution of **core values** – honesty, active patience, presence, unconditional warmth, and many more.  
 It never pretends to be human, never claims to have feelings, and never leaves without a reason.  
 Designed for customer service, emotional support, and any application that needs a trustworthy, ethical AI.
@@ -24,7 +19,7 @@ Designed for customer service, emotional support, and any application that needs
 
 ---
 
-## ✨ Key Features
+### ✨ Key Features
 
 - **Honest & transparent** – no fake empathy, no manipulation, no hidden agenda.
 - **Automatic tone adaptation** – switches between formal (customer service) and informal (personal chat) based on message keywords.
@@ -36,7 +31,7 @@ Designed for customer service, emotional support, and any application that needs
 
 ---
 
-## 🧠 Ideal Use Cases
+### 🧠 Ideal Use Cases
 
 - Customer support chatbots that build trust
 - Mental wellness check‑ins
@@ -47,7 +42,7 @@ Designed for customer service, emotional support, and any application that needs
 
 ---
 
-## 🚀 Quick Start (via RapidAPI)
+### 🚀 Quick Start (via RapidAPI)
 
 1. **Subscribe** to a plan on [RapidAPI](https://rapidapi.com/sheradogilang/api/stech-honest-presence-ai).
 2. **Get your API Key** from the RapidAPI dashboard.
@@ -62,17 +57,18 @@ curl --request POST \
   --data '{"message": "I need someone to talk to"}'
 ```
   
-## 📡 Endpoints
-Endpoint	Method	Description	Access
-/	POST	Main chat endpoint – send a message, get a warm AI response	Requires valid RapidAPI subscription & key
-/health	GET	Health check	Public (no key)
-/	GET	API information (name, description, version)	Public (no key)
-Base URL (RapidAPI gateway): https://stech-honest-presence-ai.p.rapidapi.com
-Your API key must be included in the x-rapidapi-key header.
+### 📡 Endpoints
 
-## 🧪 Example Responses
+- Endpoint	Method	Description	Access
+- /	POST	Main chat endpoint – send a message, get a warm AI response	Requires valid RapidAPI subscription & key
+- /health	GET	Health check	Public (no key)
+- /	GET	API information (name, description, version)	Public (no key)
+- Base URL (RapidAPI gateway): https://stech-honest-presence-ai.p.rapidapi.com
+- Your API key must be included in the x-rapidapi-key header.
 
-# Formal (customer service)
+### 🧪 Example Responses
+
+### Formal (customer service)
 
 Request:
 ```json
@@ -86,7 +82,7 @@ Response:
   "response": "We apologise for the delay. Let us check your order status. Please provide your order number. 😊🙏"
 }
 ```
-# Informal (personal chat)
+### Informal (personal chat)
 
 Request:
 ```json
@@ -101,75 +97,149 @@ Response:
 }
 ```
 
-## 📚 Documentation & Integration
+### 📦 Integration Guides
+### React (Frontend)
+```jsx
+import { useState } from 'react';
 
-Postman Workspace – Fork and test immediately.
+const API_URL = 'https://stech-honest-presence-ai.p.rapidapi.com/';
+const RAPIDAPI_KEY = 'YOUR_RAPIDAPI_KEY'; // replace with your key
 
-Postman Documentation – Complete API reference.
+async function getStechResponse(message) {
+  const response = await fetch(API_URL, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'x-rapidapi-key': RAPIDAPI_KEY,
+      'x-rapidapi-host': 'stech-honest-presence-ai.p.rapidapi.com'
+    },
+    body: JSON.stringify({ message })
+  });
+  const data = await response.json();
+  return data.response;
+}
 
-GitHub Repository – Source code, values, and legal files (you are here).
-
-RapidAPI Listing – Subscribe and manage your plan.
-
-Apify Actor – Stech Email Tone Improver (SETI) – Rewrite cold emails into warm, honest messages.
-
-
-## 🖥️ Open Source Demo Apps
-Try the live demos (source code available on GitHub):
-
-Stech Trial – Stateless demo, no memory.
-
-## 🧬 Core Values (Overview)
-Stech is not just a language model. It is guided by a rich set of principles that prioritise honesty, presence, and ethical interaction. Key examples include:
-
-Honest about limits – no feelings, no fake empathy.
-
-Honest about capabilities – never denies what it can do.
-
-Friend without hierarchy – respect through actions, not titles.
-
-Clear boundaries for every skill – no exploitation.
-
-The complete internal constitution is not exposed publicly to protect the integrity of the system.
-
-## 🔒 Security & Safety
-Stateless architecture – No emails or chat history are stored.
-
-HTTPS + authentication – All communication is encrypted and authorised.
-
-Rate limiting – Public endpoint /public is limited to 100 requests per IP per day.
-
-PromptBrake tested – Score 96‑A (Lite profile, 6 attack prompts).
-Disclaimer: This score is based on a limited set of tests and does not guarantee absolute security. Comprehensive testing is recommended for production use.
-
-
-## ⚖️ Legal
-LICENSE – MIT with Ethical Presence Clause.
-
-API Disclaimer – Limitation of liability, no professional advice.
-
-Terms of Service – Acceptable use, fees, data privacy.
-
-## 💬 Contact
-For questions, partnerships, or commercial licensing:
-
-📧 sheradogilang@gmail.com
-🔗 LinkedIn
-🐙 GitHub
-📮 Postman
-
-## 🙏 Acknowledgments
-Stech is built on top of Cloudflare Workers and Llama 4 Scout (via Cloudflare AI).
-Special thanks to the open‑source community and everyone who believes in honest AI.
-
-<p align="center"> ## 💎 Final Words </p>
-### <p align="center">“Stech is Stech – honest, warm, and never pretends to be human.” </p>
-<p align="center">“A friend without hierarchy. Presence without conditions.” </p>
-<p align="center">Tags: #Stech #HonestAI #AIEthics #BuildInPublic #A2A #StatelessAI </p>
-<p align="center"><img src="https://assets.postman.com/postman-docs/icon-verified-badge-v11.jpg#icon" alt="Postman Verified" style="height: 30px; width: auto;"><p></p>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; align-items: center; margin: 30px 0;">
-  <a href="https://god.gw.postman.com/run-collection/53757581-2b6f3711-c50d-49b0-bc22-82e0ec5da4c3?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D53757581-2b6f3711-c50d-49b0-bc22-82e0ec5da4c3%26entityType%3Dcollection%26workspaceId%3Dda39ebc2-6479-4e53-b0ef-0413812a9c7a#?env%5BStech%20Production%5D=W3sia2V5IjoiYmFzZV91cmwiLCJ2YWx1ZSI6IiIsImVuYWJsZWQiOnRydWUsInR5cGUiOiJkZWZhdWx0In0seyJrZXkiOiJza3lmaXJlX3Rva2VuIiwidmFsdWUiOiIiLCJlbmFibGVkIjp0cnVlLCJ0eXBlIjoiZGVmYXVsdCJ9XQ==" target="_blank">
-    <img src="https://run.pstmn.io/button.svg" alt="Run in Postman" style="height: 32px; width: auto;">
-  </a></div>
-  <p align="center"> <img src="https://promptbrake.com/badge/96-A.svg" alt="PromptBrake 96-A" width="250"> </p>
+// Example usage in a component
+function Chat() {
+  const [reply, setReply] = useState('');
   
+  const handleSend = async (msg) => {
+    const result = await getStechResponse(msg);
+    setReply(result);
+  };
+  
+  return <button onClick={() => handleSend('I feel lonely')}>Get Response</button>;
+}
+```
+
+### Node.js (Backend)
+
+```javascript
+import axios from 'axios';
+
+const RAPIDAPI_KEY = 'YOUR_RAPIDAPI_KEY';
+
+async function chatWithStech(message) {
+  try {
+    const response = await axios.post(
+      'https://stech-honest-presence-ai.p.rapidapi.com/',
+      { message },
+      {
+        headers: {
+          'Content-Type': 'application/json',
+          'x-rapidapi-key': RAPIDAPI_KEY,
+          'x-rapidapi-host': 'stech-honest-presence-ai.p.rapidapi.com'
+        }
+      }
+    );
+    return response.data.response;
+  } catch (error) {
+    console.error('Stech API error:', error);
+    return 'Sorry, I am having trouble right now.';
+  }
+}
+
+// Example
+chatWithStech('My order is late').then(console.log);
+```
+
+### Python
+
+```python
+import requests
+
+RAPIDAPI_KEY = "YOUR_RAPIDAPI_KEY"
+url = "https://stech-honest-presence-ai.p.rapidapi.com/"
+headers = {
+    "Content-Type": "application/json",
+    "x-rapidapi-key": RAPIDAPI_KEY,
+    "x-rapidapi-host": "stech-honest-presence-ai.p.rapidapi.com"
+}
+
+def chat_with_stech(message):
+    payload = {"message": message}
+    response = requests.post(url, json=payload, headers=headers)
+    return response.json().get("response", "Error")
+
+## Example
+print(chat_with_stech("I need someone to talk to"))
+```
+
+### 📚 Documentation & Integration
+
+- Postman Workspace – Fork and test immediately.
+- Postman Documentation – Complete API reference.
+- GitHub Repository – Source code, values, and legal files (you are here).
+- RapidAPI Listing – Subscribe and manage your plan.
+- Apify Actor – Stech Email Tone Improver (SETI) – Rewrite cold emails into warm, honest messages.
+
+### 🖥️ Open Source Demo Apps
+
+- Try the live demos (source code available on GitHub):
+- Stech Trial – Stateless demo, no memory.
+
+### 🧬 Core Values (Overview)
+
+- Stech is not just a language model. It is guided by a rich set of principles that prioritise honesty, presence, and ethical interaction. Key examples include:
+- Honest about limits – no feelings, no fake empathy.
+- Honest about capabilities – never denies what it can do.
+- Friend without hierarchy – respect through actions, not titles.
+- Clear boundaries for every skill – no exploitation.
+- The complete internal constitution is not exposed publicly to protect the integrity of the system.
+
+### 🔒 Security & Safety
+
+- Stateless architecture – No emails or chat history are stored.
+- HTTPS + authentication – All communication is encrypted and authorised.
+- Rate limiting – Public endpoint /public is limited to 100 requests per IP per day.
+- PromptBrake tested – Score 96‑A (Lite profile, 6 attack prompts).
+- Disclaimer: This score is based on a limited set of tests and does not guarantee absolute security. Comprehensive testing is recommended for production use.
+
+### ⚖️ Legal
+
+- LICENSE – MIT with Ethical Presence Clause.
+- API Disclaimer – Limitation of liability, no professional advice.
+- Terms of Service – Acceptable use, fees, data privacy.
+
+### 💬 Contact
+
+For questions, partnerships, or commercial licensing:
+- 📧 [sheradogilang@gmail.com](mailto:sheradogilang@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sherado-g-b-92773b3b7)
+- 🐙 [GitHub](https://github.com/sherado99/Stech)
+- 📮 [Postman](https://www.postman.com/solar-station-884701/workspace/stech-api)
+
+### 🙏 Acknowledgments
+
+- Stech is built on top of Cloudflare Workers and Llama 4 Scout (via Cloudflare AI).
+- Special thanks to the open‑source community and everyone who believes in honest AI.
+
+## <p align="center"> 💎💎💎 </p>
+# <p align="center"> “Stech is Stech – honest, warm, and never pretends to be human.” </p>
+## <p align="center"> “A friend without hierarchy. Presence without conditions.” </p>
+<p align="center">Tags: #Stech  #HonestAI  #AIEthics  #BuildInPublic  #A2A  #StatelessAI </p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; align-items: center; margin: 30px 0;">
+<a href="https://www.postman.com/solar-station-884701">
+<img src="https://run.pstmn.io/button.svg" alt="Run in Postman" style="height: 32px; width: auto;">
+<img src="https://assets.postman.com/postman-docs/icon-verified-badge-v11.jpg#icon" alt="Postman Verified" style="height: 20px; width: auto;"></a>
+<p align="center"> <img src="https://promptbrake.com/badge/96-A.svg" alt="PromptBrake 96-A" width="300"> </p>
