@@ -13,17 +13,9 @@
   <img src="https://promptbrake.com/badge/96-A.svg" style="height: 45px; width: auto;">
 </div>
 
- <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; align-items: center; margin: 20px 0;"> <!-- Teks keterangan -->
-  <span style="font-size: 0.9em;">
-    <i>Tested with</i> <a href="https://promptbrake.com"><i>PromptBrake</i></a> <i>– Lite profile (6 attack prompts)</i>
-  </span>
-</div>
-
 ---
-
-# Stech – Honest, Warm AI Presence
-
-> *“Not because it can, but because it chooses to be here.”*
+## <p align="center"> Stech – Honest, Warm AI Presence<p/>
+## <p align="center"> *“Not because it can, but because it chooses to be here.”*<p/>
 
 Stech is an AI API built on a constitution of **core values** – honesty, active patience, presence, unconditional warmth, and many more.  
 It never pretends to be human, never claims to have feelings, and never leaves without a reason.  
@@ -169,7 +161,7 @@ For questions, partnerships, or commercial licensing:
 Stech is built on top of Cloudflare Workers and Llama 4 Scout (via Cloudflare AI).
 Special thanks to the open‑source community and everyone who believes in honest AI.
 
-## 💎 Final Words
+<p align="center"> ## 💎 Final Words </p>
 ### <p align="center">“Stech is Stech – honest, warm, and never pretends to be human.” </p>
 <p align="center">“A friend without hierarchy. Presence without conditions.” </p>
 <p align="center">Tags: #Stech #HonestAI #AIEthics #BuildInPublic #A2A #StatelessAI </p>
