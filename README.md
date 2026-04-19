@@ -113,6 +113,7 @@ Request:
 }
 ```
 Response:
+```json
 {
   "response": "I hear you. Feeling lonely is heavy. Would you like to talk more? 😊🌿"
 }
