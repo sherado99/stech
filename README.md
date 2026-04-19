@@ -237,9 +237,15 @@ For questions, partnerships, or commercial licensing:
 ## <p align="center"> 💎💎💎 </p>
 # <p align="center"> “Stech is Stech – honest, warm, and never pretends to be human.” </p>
 ## <p align="center"> “A friend without hierarchy. Presence without conditions.” </p>
-<p align="center">Tags: #Stech  #HonestAI  #AIEthics  #BuildInPublic  #A2A  #StatelessAI </p>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; align-items: center; margin: 30px 0;">
-<a href="https://www.postman.com/solar-station-884701">
-<img src="https://run.pstmn.io/button.svg" alt="Run in Postman" style="height: 32px; width: auto;">
-<img src="https://assets.postman.com/postman-docs/icon-verified-badge-v11.jpg#icon" alt="Postman Verified" style="height: 20px; width: auto;"></a>
-<p align="center"> <img src="https://promptbrake.com/badge/96-A.svg" alt="PromptBrake 96-A" width="300"> </p>
+<p align="center" style="margin-bottom: 20px;">
+  Tags: #Stech #HonestAI #AIEthics #BuildInPublic #A2A #StatelessAI
+</p>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; align-items: center; margin: 20px 0;">
+  <img src="https://promptbrake.com/badge/96-A.svg" alt="PromptBrake 96-A" width="180">
+  <img src="https://img.shields.io/website?url=https://stech-api.sheradogilang.workers.dev/health" alt="Cloudflare Worker Status">
+  <a href="https://www.postman.com/solar-station-884701" target="_blank">
+  <img src="https://run.pstmn.io/button.svg" alt="Run in Postman" style="height: 20px; width: auto;">
+  </a>
+  <img src="https://assets.postman.com/postman-docs/icon-verified-badge-v11.jpg" alt="Postman Verified" style="height: 20px; width: auto;">
+</div>
