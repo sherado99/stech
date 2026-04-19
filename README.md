@@ -115,8 +115,8 @@ Response:
   "response": "I hear you. Feeling lonely is heavy. Would you like to talk more? 😊🌿"
 }
 ```
-## 📚 Documentation & Integration
 
+## 📚 Documentation & Integration
 Postman Workspace – Fork and test immediately.
 
 Postman Documentation – Complete API reference.
@@ -126,6 +126,7 @@ GitHub Repository – Source code, values, and legal files (you are here).
 RapidAPI Listing – Subscribe and manage your plan.
 
 Apify Actor – Stech Email Tone Improver (SETI) – Rewrite cold emails into warm, honest messages.
+```
 ---
 ## 🖥️ Open Source Demo Apps
 Try the live demos (source code available on GitHub):
