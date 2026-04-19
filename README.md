@@ -1,14 +1,3 @@
-<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; align-items: center; margin: 20px 0;">
-  
-  <a href="https://god.gw.postman.com/run-collection/53757581-2b6f3711-c50d-49b0-bc22-82e0ec5da4c3?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D53757581-2b6f3711-c50d-49b0-bc22-82e0ec5da4c3%26entityType%3Dcollection%26workspaceId%3Dda39ebc2-6479-4e53-b0ef-0413812a9c7a#?env%5BStech%20Production%5D=W3sia2V5IjoiYmFzZV91cmwiLCJ2YWx1ZSI6IiIsImVuYWJsZWQiOnRydWUsInR5cGUiOiJkZWZhdWx0In0seyJrZXkiOiJza3lmaXJlX3Rva2VuIiwidmFsdWUiOiIiLCJlbmFibGVkIjp0cnVlLCJ0eXBlIjoiZGVmYXVsdCJ9XQ==">
-  <img
-src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="height: 32px; width: auto;">
-<a/>
-  <div/>
-<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; align-items: center; margin: 20px 0;">
-<img src="https://www.postman.com/_ar-assets/js/images/verified-6c67fe7ef4775131.svg" alt="Postman Verified" style="height: 20px; width: auto;">
-<div/>
-
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center; margin: 150px 0;">
   <!-- Gambar pertama (dari Postman) -->
   <img src="https://content.pstmn.io/3f56157b-ec2c-4389-9cbf-a0a891f5e10c/Q2hhdEdQVCBJbWFnZSAxMSBBcHIgMjAyNiwgMTMuNTQuNDYucG5n" style="height: 190px; width: auto;">
@@ -183,6 +172,16 @@ Special thanks to the open‑source community and everyone who believes in hones
 ## 💎 Final Words
 ### <p align="center">“Stech is Stech – honest, warm, and never pretends to be human.” </p>
 <p align="center">“A friend without hierarchy. Presence without conditions.” </p>
-
 <p align="center">Tags: #Stech #HonestAI #AIEthics #BuildInPublic #A2A #StatelessAI </p>
 
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; align-items: center; margin: 20px 0;"><div/>
+<a href="https://god.gw.postman.com/run-collection/53757581-2b6f3711-c50d-49b0-bc22-82e0ec5da4c3?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D53757581-2b6f3711-c50d-49b0-bc22-82e0ec5da4c3%26entityType%3Dcollection%26workspaceId%3Dda39ebc2-6479-4e53-b0ef-0413812a9c7a#?env%5BStech%20Production%5D=W3sia2V5IjoiYmFzZV91cmwiLCJ2YWx1ZSI6IiIsImVuYWJsZWQiOnRydWUsInR5cGUiOiJkZWZhdWx0In0seyJrZXkiOiJza3lmaXJlX3Rva2VuIiwidmFsdWUiOiIiLCJlbmFibGVkIjp0cnVlLCJ0eXBlIjoiZGVmYXVsdCJ9XQ==">
+  <img>
+<a/>src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="height: 32px; width: auto;">
+
+
+
+<div/>
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; align-items: center; margin: 20px 0;">
+<img src="https://www.postman.com/_ar-assets/js/images/verified-6c67fe7ef4775131.svg" alt="Postman Verified" style="height: 20px; width: auto;">
+<div/>
