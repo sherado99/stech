@@ -79,7 +79,9 @@ curl --request POST \
   --header 'x-rapidapi-host: stech-honest-presence-ai.p.rapidapi.com' \
   --header 'x-rapidapi-key: YOUR_RAPIDAPI_KEY' \
   --data '{"message": "I need someone to talk to"}'
-📡 Endpoints
+```
+  
+##📡 Endpoints
 Endpoint	Method	Description	Access
 /	POST	Main chat endpoint – send a message, get a warm AI response	Requires valid RapidAPI subscription & key
 /health	GET	Health check	Public (no key)
@@ -87,34 +89,35 @@ Endpoint	Method	Description	Access
 Base URL (RapidAPI gateway): https://stech-honest-presence-ai.p.rapidapi.com
 Your API key must be included in the x-rapidapi-key header.
 
-🧪 Example Responses
+##🧪 Example Responses
 Formal (customer service)
 Request:
 
-json
+```json
 {
   "message": "My order hasn't arrived yet"
 }
 Response:
-
-json
+```
+```json
 {
   "response": "We apologise for the delay. Let us check your order status. Please provide your order number. 😊🙏"
 }
 Informal (personal chat)
 Request:
-
-json
+```
+```json
 {
   "message": "I feel lonely today"
 }
 Response:
-
-json
+```
+```json
 {
   "response": "I hear you. Feeling lonely is heavy. Would you like to talk more? 😊🌿"
 }
-📚 Documentation & Integration
+```
+##📚 Documentation & Integration
 Postman Workspace – Fork and test immediately.
 
 Postman Documentation – Complete API reference.
@@ -125,12 +128,12 @@ RapidAPI Listing – Subscribe and manage your plan.
 
 Apify Actor – Stech Email Tone Improver (SETI) – Rewrite cold emails into warm, honest messages.
 
-🖥️ Open Source Demo Apps
+##🖥️ Open Source Demo Apps
 Try the live demos (source code available on GitHub):
 
 Stech Trial – Stateless demo, no memory.
 
-🧬 Core Values (Overview)
+##🧬 Core Values (Overview)
 Stech is not just a language model. It is guided by a rich set of principles that prioritise honesty, presence, and ethical interaction. Key examples include:
 
 Honest about limits – no feelings, no fake empathy.
@@ -143,7 +146,7 @@ Clear boundaries for every skill – no exploitation.
 
 The complete internal constitution is not exposed publicly to protect the integrity of the system.
 
-🔒 Security & Safety
+##🔒 Security & Safety
 Stateless architecture – No emails or chat history are stored.
 
 HTTPS + authentication – All communication is encrypted and authorised.
@@ -154,14 +157,14 @@ PromptBrake tested – Score 96‑A (Lite profile, 6 attack prompts).
 Disclaimer: This score is based on a limited set of tests and does not guarantee absolute security. Comprehensive testing is recommended for production use.
 
 <p align="center"> <img src="https://promptbrake.com/badge/96-A.svg" alt="PromptBrake 96-A" width="200"> </p>
-⚖️ Legal
+##⚖️ Legal
 LICENSE – MIT with Ethical Presence Clause.
 
 API Disclaimer – Limitation of liability, no professional advice.
 
 Terms of Service – Acceptable use, fees, data privacy.
 
-💬 Contact
+##💬 Contact
 For questions, partnerships, or commercial licensing:
 
 📧 sheradogilang@gmail.com
@@ -169,11 +172,11 @@ For questions, partnerships, or commercial licensing:
 🐙 GitHub
 📮 Postman
 
-🙏 Acknowledgments
+##🙏 Acknowledgments
 Stech is built on top of Cloudflare Workers and Llama 4 Scout (via Cloudflare AI).
 Special thanks to the open‑source community and everyone who believes in honest AI.
 
-💎 Final Words
+##💎 Final Words
 “Stech is Stech – honest, warm, and never pretends to be human.”
 “A friend without hierarchy. Presence without conditions.”
 
