@@ -245,8 +245,9 @@ For questions, partnerships, or commercial licensing:
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; align-items: center; margin: 60px 0;">
   <img src="https://promptbrake.com/badge/96-A.svg" alt="PromptBrake 96-A" width="250">
-  <a href="https://www.postman.com/solar-station-884701" target="_blank">
-  <img src="https://run.pstmn.io/button.svg" alt="Run in Postman" style="height: 30px; width: auto;">
-  </a>
+  <a href="https://app.getpostman.com/run-collection/53757581-2b6f3711-c50d-49b0-bc22-82e0ec5da4c3">
+  <img src="https://run.pstmn.io/button.svg" alt="Run in Postman">
+</a>
   <img src="https://assets.postman.com/postman-docs/icon-verified-badge-v11.jpg" alt="Postman Verified" style="height: 20px; width: auto;">
 </div>
+
