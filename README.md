@@ -1,11 +1,11 @@
 <div align="center">
-  <img width="250" alt="Stech" src="https://github.com/user-attachments/assets/80c2b9b9-4b7b-4d5a-a906-87e94209d66b" />
+  <img width="200" alt="Stech" src="https://github.com/user-attachments/assets/80c2b9b9-4b7b-4d5a-a906-87e94209d66b" />
 </div>
 
 #
 
 <div align="center">
-  <img width="400" alt="ChatGPT Image 15 Apr 2026, 04 53 18" src="https://github.com/user-attachments/assets/e55bb1c0-3078-4577-9052-a6cf69928d4c" />
+  <img width="500" alt="ChatGPT Image 15 Apr 2026, 04 53 18" src="https://github.com/user-attachments/assets/e55bb1c0-3078-4577-9052-a6cf69928d4c" />
 </div>
 <div align="center">
 
