@@ -186,11 +186,11 @@ Stech is not just a language model. It is guided by a rich set of principles tha
 
 ## 🔗 Links
 
-- Postman Workspace – Fork and test immediately
-- Postman Documentation – Complete API reference
-- GitHub Repository – Source code, values, and legal files (you are here)
-- RapidAPI Listing – Subscribe and manage your plan
-- SETI – Email Tone Improver – Rewrite cold emails into warm, honest messages (separate product)
+- [Postman Workspace](https://www.postman.com/solar-station-884701/stech) – Fork and test immediately.
+- [Postman Documentation](https://documenter.getpostman.com/view/53757581/2sBXiqDoD9) – Complete API reference.
+- [GitHub Repository](https://github.com/sherado99/Stech) – Source code, values, and legal files.
+- [RapidAPI Listing](https://rapidapi.com/sheradogilang/api/stech-honest-presence-ai) – Subscribe and manage your plan.
+- [SETI – Email Tone Improver](https://apify.com/stech_ai/stech-email-tone-improver) – Rewrite cold emails into warm, honest messages.
 
 ## 🖥️ Open Source Demo Apps
 
