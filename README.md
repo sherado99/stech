@@ -216,3 +216,12 @@ Special thanks to the open‑source community and everyone who believes in hones
 > *“A friend without hierarchy. Presence without conditions.”*
 
 **#Stech #HonestAI #AIEthics #BuildInPublic #A2A #StatelessAI**
+
+<div>
+  <img src="https://promptbrake.com/badge/96-A.svg" alt="PromptBrake 96-A" width="250">
+  <a href="https://www.postman.com/solar-station-884701" target="_blank">
+  <img src="https://run.pstmn.io/button.svg" alt="Run in Postman">
+  </a>
+  <img src="https://assets.postman.com/postman-docs/icon-verified-badge-v11.jpg" alt="Postman Verified">
+</div>
+
