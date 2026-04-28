@@ -203,7 +203,7 @@ For questions, partnerships, or commercial licensing:
 - 📧 Gmail: sheradogilang@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/sherado-g-b-92773b3b7/
 - 🐙 GitHub: https://github.com/sherado99/Stech
-- 📮 Postman: https://www.postman.com/solar-station-884701/stech
+- 📮 Postman: https://www.postman.com/solar-station-884701/stech/collection/53757581-2b6f3711-c50d-49b0-bc22-82e0ec5da4c3
 
 ---
 
