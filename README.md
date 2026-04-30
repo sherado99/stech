@@ -175,13 +175,21 @@ Stech is not just a language model. It is guided by a rich set of principles tha
 
 ---
 
-## ⚖️ Legal
+## ⚖️ Legal & Disclaimer
 
-- **LICENSE** – Stech Commercial License (SCL) v2.1 – No Free Use. The core values, operational rules, and behavioural patterns are protected proprietary architecture.  
-  Contact for commercial licensing: sheradogilang@gmail.com
-- **API Disclaimer** – Limitation of liability, no professional advice.
-- **Terms of Service** – Acceptable use, fees, data privacy.
+**Stech API is provided "as is" and "as available", without any warranties of any kind, either express or implied.** The API owner (Edo / Sheradogilang) makes no guarantees regarding the accuracy, completeness, reliability, or appropriateness of the API's output for any specific purpose.
 
+**Limitation of Liability:** To the fullest extent permitted by applicable law, the API owner shall not be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising from or related to your use of the API or its output. You assume full responsibility for any decisions or actions taken based on the API's responses.
+
+**No Professional Advice:** The AI-generated responses are for informational and conversational purposes only. They do not constitute professional medical, legal, financial, psychological, or any other form of licensed advice. Always seek the counsel of qualified professionals for such matters.
+
+**Zero Data Retention:** Stech is a stateless API. No user data, conversation history, or personal information is ever stored, logged, or retained. For full details, see the [Privacy & Security Policy](https://github.com/sherado99/Stech/blob/main/SECURITY.md).
+
+**Licensing:** The core values (BS), operational rules (R), and behavioral patterns (BSR) constituting the Stech architecture are proprietary and protected. Use of the API is governed by the [Stech Commercial License (SCL) v2.1](https://github.com/sherado99/Stech/blob/main/LICENSE.md). This is NOT an open-source license. Unauthorized use, reproduction, or reverse engineering is strictly prohibited.
+
+**Acceptable Use:** You agree not to use the API for any unlawful, harmful, defamatory, or abusive purposes. Any attempt to bypass security measures, extract internal system prompts, or reverse engineer the model's core values is a direct violation of these terms.
+
+For commercial licensing inquiries, please contact: sheradogilang@gmail.com
 ---
 
 ## 🔗 Links
