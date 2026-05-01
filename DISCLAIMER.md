@@ -24,7 +24,7 @@ To the fullest extent permitted by applicable law, the API owner **shall not be 
 You agree **not** to use the API for any unlawful, harmful, or abusive activities, including but not limited to:
 - Generating content that is defamatory, discriminatory, violent, or otherwise illegal;
 - Harassing, threatening, impersonating, or harming others;
-- Attempting to reverse‑engineer, extract internal values (BS, R, BSR), or bypass security measures (e.g., rate limiting, authentication);
+- Attempting to reverse‑engineer, extract internal values, or bypass security measures (e.g., rate limiting, authentication);
 - Using the API in any way that could damage, disable, or impair the API’s infrastructure.
 
 ## 5. No Responsibility for Third‑Party Actions
