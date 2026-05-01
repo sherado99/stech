@@ -15,11 +15,7 @@ BOUND BY ALL TERMS SET FORTH IN THIS LICENSE.
 
 The copyright holder grants you only the right to:
 
-**View and Download the Code (Read & Download Only):**
-You may view and store this source code on your local machine,
-solely for the purpose of personal evaluation, security audit,
-or your own educational reference.
-
+View and Download the Code (Security Audit Only): You may view and store this source code solely for the purpose of conducting independent security audits or verifying the safety of the code. Any other use, including but not limited to commercial use, personal use, or educational study of the implementation, is strictly prohibited.
 **NO OTHER RIGHTS ARE GRANTED.** All other rights are explicitly
 reserved by the copyright holder.
 
