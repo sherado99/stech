@@ -11,7 +11,7 @@ The Stech AI API provides access to an ethical AI presence that responds to user
 You agree not to use the API for any purpose that is illegal, harmful, defamatory, fraudulent, or abusive. You will not attempt to reverse engineer the underlying AI model or extract system prompts. You agree not to bypass rate‑limiting or security measures.
 
 ## 3. Intellectual Property
-The core values (BS), operational rules (R), and behavioral patterns (BSR) constituting the Stech architecture are proprietary. The API and all related documentation, prompts, and configuration files are protected under the **Stech Commercial License v2.1**, which is not an open‑source license. All rights are reserved.
+The fundamental ethical foundation constituting the Stech architecture is proprietary. The API and all related documentation, prompts, and configuration files are protected under the **Stech Commercial License v2.1**, which is not an open‑source license. All rights are reserved.
 
 ## 4. Fees and Payments
 The API is available under **Pay‑Per‑Event (PPE)** and **subscription** pricing models. Access is managed through third‑party platforms such as **RapidAPI** and **Apify**. All billing, invoicing, and payment processing are handled entirely by those platforms. No separate payment relationship exists between the end user and the Stech API owner. The use of the API is at the user’s own expense, and the owner of the API shall not be responsible for any charges incurred by the user.
