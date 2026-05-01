@@ -57,9 +57,7 @@ model. Each "run" constitutes one license.
 
 ## 4. Proprietary Architecture Protection
 
-This software embodies an integrated proprietary architecture
-consisting of core values, operational rules, and behavioral
-patterns that govern its function and output.
+The underlying value system, decision-making methodology, and operational design of this Software are proprietary and protected as intellectual property.
 
 You are strictly prohibited from:
 - Extracting, imitating, or replicating this architecture.
