@@ -156,7 +156,7 @@ def chat_with_stech(message):
 
 Try the live demos (source code available on GitHub):
 
-- Stech Trial – Stateless demo, no memory. https://stech-trial.sheradogilang.workers.dev/
+- Stech Trial – Stateless demo, no memory. https://stech-trial.pages.dev/
 
 ## 🧬 Core Values (Overview)
 
@@ -207,7 +207,18 @@ For questions, partnerships, or commercial licensing:
 Stech is built on top of Cloudflare Workers and Llama 4 Scout (via Cloudflare AI).
 Special thanks to the open‑source community and everyone who believes in honest AI.
 
-"Stech is Stech – honest, warm, and never pretends to be human."
-"A friend without hierarchy. Presence without conditions."
 
-#Stech #HonestAI #AIEthics #BuildInPublic #A2A #StatelessAI #SPAI #AgentGenesis #EthicalAI #AIAgent #PresenceOverAnswers #MicroHonesty #ResponsibleAI #AIGovernance #ControlByDesign
+
+**#Stech #HonestAI #AIEthics #BuildInPublic #A2A #StatelessAI #SPAI #AgentGenesis #EthicalAI #AIAgent #PresenceOverAnswers #MicroHonesty #ResponsibleAI #AIGovernance #ControlByDesign**
+
+**“Stech is Stech – honest, warm, and never pretends to be human.”**  
+**“A friend without hierarchy. Presence without conditions.”**
+
+
+<div>
+  <img src="https://promptbrake.com/badge/96-A.svg" alt="PromptBrake 96-A" width="250">
+  <a href="https://www.postman.com/solar-station-884701" target="_blank">
+  <img src="https://run.pstmn.io/button.svg" alt="Run in Postman">
+  </a>
+  <img src="https://assets.postman.com/postman-docs/icon-verified-badge-v11.jpg" alt="Postman Verified">
+</div>
