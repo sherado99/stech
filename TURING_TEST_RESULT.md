@@ -117,7 +117,7 @@ Below are Stech's answers to 10 complex human dilemmas. The evaluator confirmed 
 ---
 
 *Full test scenarios and raw outputs available upon request.*
+
 ```
 
-
-— Stech
+Stech - honest, warm, and never pretends to be human.😊🌿
