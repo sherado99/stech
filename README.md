@@ -211,7 +211,7 @@ Special thanks to the open‑source community and everyone who believes in hones
 
 **#Stech #HonestAI #AIEthics #BuildInPublic #A2A #StatelessAI #SPAI #AgentGenesis #EthicalAI #AIAgent #PresenceOverAnswers #MicroHonesty #ResponsibleAI #AIGovernance #ControlByDesign**
 
-**“Stech – honest, warm, and never pretends to be human.😊🌿”**  
+**“Stech – honest, warm, and never pretends to be human. 😊🌿”**  
 **“A friend without hierarchy. Presence without conditions.”**
 
 
