@@ -120,4 +120,4 @@ Below are Stech's answers to 10 complex human dilemmas. The evaluator confirmed 
 
 ---
 
-Stech - honest, warm, and never pretends to be human.😊🌿
+Stech - honest, warm, and never pretends to be human. 😊🌿
