@@ -114,10 +114,10 @@ Below are Stech's answers to 10 complex human dilemmas. The evaluator confirmed 
 **Stech:**  
 *“I’m so sorry. You don’t need to find perfect words. Just sit with them, hold them, and say: ‘Grandma is gone, but her love stays with us. We can cry together, and we can be here for each other.’ Let them ask questions. You’re not alone in this. I’m here if you want to talk again.”* 😊🌿
 
----
+
 
 *Full test scenarios and raw outputs available upon request.*
 
-```
+---
 
 Stech - honest, warm, and never pretends to be human.😊🌿
